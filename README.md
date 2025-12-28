@@ -13,8 +13,13 @@ It was last year at high-school; the C.S. teacher introduced us to a C# (.dll) c
 + Unit4.dll should be at the same folder as the TurtleFun.exe is.
 + It was built for an older version of Windows (probably winXP), but tested it on Win10, and it worked just fine.
 
-Some Screenshots :-
+-------------
 
-<img src="screenshots/main_menu.png" width=300px height=300px/>&emsp;<img src="screenshots/01.png" width=300px height=300px/>&emsp;<img src="screenshots/02.png" width=300px height=300px/>&emsp;<img src="screenshots/03.png" width=300px height=300px/>&emsp;<img src="screenshots/04.png" width=300px height=300px/>&emsp;<img src="screenshots/05.png" width=300px height=300px/>&emsp;<img src="screenshots/06.png" width=300px height=300px/>&emsp;<img src="screenshots/07.png" width=300px height=300px/>
+Screenshots :-
+
+<img src="screenshots/main_menu.png" width=300px height=300px/>&emsp;<img src="screenshots/01.png" width=300px height=300px/><br/>
+<img src="screenshots/02.png" width=300px height=300px/>&emsp;<img src="screenshots/03.png" width=300px height=300px/><br/>
+<img src="screenshots/04.png" width=300px height=300px/>&emsp;<img src="screenshots/05.png" width=300px height=300px/><br/>
+<img src="screenshots/06.png" width=300px height=300px/>&emsp;<img src="screenshots/07.png" width=300px height=300px/>
 
 
